@@ -1,0 +1,21 @@
+# Example ofCourse assignments.yaml
+# Homework keys should be added as YAML
+# list elements.
+hw:
+  - firstflight
+  - blog02
+  - blog03
+  - litreview1
+  - blog04
+  - litreview2
+  - blog05
+  - bugfix
+  - blog06
+  - blog07
+  - commarchteam
+  - meetup1
+  - meetup2
+  - quiz1
+  - commarch
+  - finalpreso
+    

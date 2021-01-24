@@ -1,0 +1,32 @@
+course:
+    name: HFOSS
+    desc: The RIT Humanitarian Free/Open Source Software Development Course
+    place: RIT
+    start: 2020-01-13
+    end: 2020-04-27
+    times: MWF 9:00AM - 9:50AM
+    course: 2195.582.01
+    location: Magic Spell Studios (MSS)-2175
+    repo: https://github.com/ritjoe/hfoss
+# Optional if using OpenShift    public_url: http://hfoss-ritigm.rhcloud.com
+
+instructor:
+    name: D. Joe Anderson
+    email: deejoe@mail.rit.edu
+    irc: dzho
+    avatar: None
+    openhub: None
+    coderwall: None
+    twitter: None
+    office:
+        location: Magic Spell Studios (MSS)-3190
+        hours: Thursdays 5:00-7:00pm
+    links:
+        blog: http://deejoe.etrumeus.com/update
+        linkedin: http://linkedin.com/in/decause
+        github: http://github.com/ritjoe
+
+assistant:
+    name: None
+    email: None
+    irc: None
